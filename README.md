@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mrabumhd  
+- 👋 Hi, I’m Abubakar Muhammad  
 - 👀 I’m interested in educational solutions, including web apps and websites that enhance learning and accessibility.  
 - 🌱 I’m currently learning React and advancing my frontend development skills.  
 - 💞️ I’m looking to collaborate on web development projects, especially those focused on modern, high-performing educational platforms.  
